@@ -6,4 +6,3 @@ Our design in the domain of personal health and medicine is MediMinder Pro™, a
 
 This design was built around the STM32401RE microcontroller from STMicroelectronics.
 
-For more information, visit www.adonojha.com/projects/mediminder
